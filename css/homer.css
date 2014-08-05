@@ -7,15 +7,15 @@
 
 #homer
 {
-    position: relative;
-    width: 94px;
-    height: 133px;
-    margin: 0 auto;
+    position: absolute;
+    width: 70px;
+    height: 150px;
+    margin: 2 auto;
 }
 
 #homer .head *
 {
-    border: 1px solid #110b00;
+    border: 3px solid #110b00;
 }
 
 #homer .head .no-border
@@ -30,7 +30,7 @@
 
 #homer .head .hair1
 {
-    top: 14px;
+    top: 4px;
     left: 0px;    
     height:13px;
     width:22px;
@@ -46,7 +46,7 @@
 
 #homer .head .hair2
 {
-    top: 8px;
+    top: 6px;
     left: 9px;    
     height:16px;
     width:26px;
